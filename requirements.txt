@@ -1,0 +1,9 @@
+1. IBM Watson Assistant
+
+2. IBM Cloud Functions (Optional for dynamic API integration)
+
+3. Google Books API (Optional)
+
+4. GitHub
+
+5. HTML/CSS (for deployment if needed)
